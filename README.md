@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiddharthReddyEnjam
 - 👀 I’m interested in FullStack and Machine Learning
-- 🌱 I’m currently learning FrontEnd
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on Fullstack projects
 - 📫 How to reach me siddharthreddy8125@gmail.com
 
